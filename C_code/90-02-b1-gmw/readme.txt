@@ -1,0 +1,1 @@
+eliminate stars
