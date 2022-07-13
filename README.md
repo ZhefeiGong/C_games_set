@@ -8,5 +8,5 @@ there are some small games written in C / C++
 * 2048
 ---
 ## Instructions
-First, you need to download or fetch all of the files, and get the environment of C++. 
-Then, just run the project and you well get the games.
+1. First, you need to download or fetch all of the files, and get the environment of C++. 
+2. Then, just run the project and you well get the games.
